@@ -1,0 +1,65 @@
+[
+    {
+        "id": "Novelas-01",
+        "titulo": "Cien años de soledad",
+        "imagen": "./img/cienañosdesoledad.jpg",
+        "categoria": {
+            "nombre": "Novelas",
+            "id": "novelas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Novelas-02",
+        "titulo": "Rayuela",
+        "imagen": "./img/rayuela.jpg",
+        "categoria": {
+            "nombre": "Novelas",
+            "id": "novelas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Cuentos-01",
+        "titulo": "El principito", 
+        "imagen": "./img/elprincipito.jpg",
+        "categoria": {
+          "nombre": "Cuentos",
+          "id": "cuentos"
+        },
+        "precio": 4000
+      },
+      {
+        "id": "Cuentos-02",
+        "titulo": "Las mil y una noches", 
+        "imagen": "./img/lasmilyunanoches.webp",
+        "categoria": {
+          "nombre": "Cuentos",
+          "id": "cuentos"
+        },
+        "precio": 4000
+      },
+    {
+        "id": "Clásicos-01",
+        "titulo": "El ingenioso hidalgo don Quijote de la Mancha",
+        "imagen": "./img/donquijote.jpg",
+        "categoria": {
+            "nombre": "Clásicos",
+            "id": "clasicos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Clásicos-02",
+        "titulo": "La Odisea",
+        "imagen": "./img/la-odisea.jpg",
+        "categoria": {
+            "nombre": "Clásicos",
+            "id": "clasicos"
+        },
+        "precio": 1000
+    }
+  
+]
+
+   
